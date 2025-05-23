@@ -1,0 +1,630 @@
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:18:45 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.135.234
+18.207.79.37
+20.189.173.23
+52.168.117.170
+52.204.146.63
+52.72.74.33
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:22:56 =====
+IPs detectadas:
+0.0.0.0
+100.29.100.156
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+13.74.143.200
+13.86.100.218
+140.82.112.21
+140.82.112.25
+162.159.135.234
+184.30.237.217
+20.189.173.25
+20.190.155.130
+20.190.155.132
+20.99.133.109
+40.65.111.94
+51.104.15.253
+52.154.254.164
+52.188.247.148
+52.205.3.218
+54.157.122.49
+68.155.74.130
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 100.29.100.156:
+- País: US
+- ISP: Amazon Data Services NoVa
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:29:56 =====
+
+Información de la IP 8.8.8.8:
+- País: US
+- ISP: Google LLC
+- Reportes: 257
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:30:13 =====
+
+Información de la IP 8.8.8.8:
+- País: US
+- ISP: Google LLC
+- Reportes: 257
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 1.1.1.1:
+- País: AU
+- ISP: APNIC and Cloudflare DNS Resolver project
+- Reportes: 68
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:32:34 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.135.234
+20.190.155.2
+34.201.233.242
+44.240.27.104
+52.21.217.247
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:37:42 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+13.89.179.14
+140.82.112.25
+162.159.135.234
+44.193.164.47
+54.157.122.49
+65.52.241.40
+76.223.31.44
+96.16.241.23
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:38:30 =====
+Error al consultar IP 8: 422 - {"errors":[{"detail":"The ip address must be a valid IPv4 or IPv6 address (e.g. 8.8.8.8 or 2001:4860:4860::8888).","status":422,"source":{"parameter":"ipAddress"}}]}
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:42:01 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+140.82.113.21
+162.159.135.234
+20.42.73.28
+20.50.201.205
+3.223.14.28
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:42:25 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+140.82.113.21
+162.159.135.234
+20.42.73.28
+3.223.14.28
+3.229.150.58
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:43:22 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+140.82.113.21
+162.159.135.234
+20.42.73.28
+3.223.14.28
+3.229.150.58
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:44:45 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.135.234
+20.125.63.4
+20.190.155.66
+20.42.73.28
+3.223.14.28
+3.229.150.58
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:46:12 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.135.234
+20.125.63.4
+20.190.155.66
+34.237.5.98
+52.168.112.66
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 11:55:42 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.16.166.44
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.135.234
+3.223.60.156
+34.195.221.223
+44.217.181.215
+48.211.71.197
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.16.166.44:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 12:27:54 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.18.162.67
+104.208.203.90
+127.0.0.1
+132.181.109.13
+140.82.114.26
+146.75.92.157
+162.159.136.234
+162.159.138.232
+172.66.0.227
+18.214.173.230
+20.125.63.4
+20.169.174.231
+20.42.73.31
+38.92.173.2
+44.193.21.42
+54.157.122.49
+76.223.31.44
+
+Error al consultar IP 0.0.0.0: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+Error al consultar IP 104.154.127.247: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+Error al consultar IP 104.18.162.67: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 12:28:48 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.18.162.67
+104.208.203.90
+127.0.0.1
+132.181.109.13
+140.82.112.25
+146.75.92.157
+162.159.136.234
+162.159.138.232
+172.66.0.227
+18.214.173.230
+20.125.63.4
+20.169.174.231
+38.92.173.2
+44.193.21.42
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.18.162.67:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 12:29:47 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.18.162.67
+104.208.203.90
+127.0.0.1
+132.181.109.13
+140.82.112.25
+146.75.92.157
+162.159.136.234
+172.66.0.227
+20.169.174.231
+44.193.21.42
+52.182.143.213
+54.157.122.49
+76.223.31.44
+
+Error al consultar IP 0.0.0.0: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+Error al consultar IP 104.154.127.247: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+Error al consultar IP 104.18.162.67: 401 - {"errors":[{"detail":"Authentication failed. Your API key is either missing, incorrect, or revoked. Note: The APIv2 key differs from the APIv1 key.","status":401}]}
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 12:32:15 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.18.162.67
+104.208.203.90
+127.0.0.1
+140.82.112.25
+162.159.136.234
+20.169.174.231
+44.217.181.215
+52.182.143.213
+54.157.122.49
+76.223.31.44
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.18.162.67:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+===== EJECUCIÓN DEL SCRIPT: 2025-05-23 12:39:38 =====
+IPs detectadas:
+0.0.0.0
+104.154.127.247
+104.18.162.67
+104.208.203.90
+107.21.45.167
+127.0.0.1
+13.107.42.12
+13.89.178.27
+140.82.112.25
+162.159.130.234
+172.178.160.19
+54.157.122.49
+76.223.31.44
+96.16.241.23
+
+
+Información de la IP 0.0.0.0:
+- País: None
+- ISP: Broadcast RFC1700
+- Reportes: 99
+- Confianza en abuso: 0%
+- No maliciosa
+
+
+Información de la IP 104.154.127.247:
+- País: US
+- ISP: Google LLC
+- Reportes: 16
+- Confianza en abuso: 33%
+- No maliciosa
+
+
+Información de la IP 104.18.162.67:
+- País: US
+- ISP: Cloudflare, Inc.
+- Reportes: 0
+- Confianza en abuso: 0%
+- No maliciosa
+
